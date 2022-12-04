@@ -1,1 +1,1 @@
-#password strength check
+#password generator
